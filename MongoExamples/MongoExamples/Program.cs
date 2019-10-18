@@ -11,6 +11,7 @@ namespace MongoExamples
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world to everybody");
+            Console.ReadLine();
         }
     }
 }
